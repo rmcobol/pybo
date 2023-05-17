@@ -25,6 +25,7 @@ SECRET_KEY = '*yv$=_waq(7#2gjs@+p@!h&7#8o@x8%cyq^2eip94!e*903&ag'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['54.180.56.174']
 
 
