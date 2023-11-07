@@ -6,6 +6,7 @@ from ..models import Question
 
 
 def index(request):
+
     """
     pyboy 목록 출력
     """
